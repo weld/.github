@@ -33,7 +33,7 @@ As a last resort, in particular in case of disagreement about the decision-makin
 
 ## Role granting/revoking
 
-The role of Maintainer or Project Lead or Overall Project Lead is granted or revoked through the decision-making process, with additional restrictions:
+The role of Maintainer or Project Lead is granted or revoked through the decision-making process, with additional restrictions:
 
 The discussion must happen in a public space, such as on the [Weld projects development mailing list](https://lists.jboss.org/archives/list/weld-dev@lists.jboss.org/).
 The opinion of the Maintainer or Project Lead whose role is being discussed does not factor into the decision.
