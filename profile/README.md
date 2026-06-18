@@ -10,7 +10,7 @@ Here you can find our [main repository](https://github.com/weld/core), as well a
 
 If you are looking to get started with Weld check out our [main documentation](https://weld.cdi-spec.org/documentation/).
 
-Some projects are tracking issues in the [WELD Issue Tracker](https://issues.redhat.com/projects/WELD/issues/), while others use GitHub issues.
+All projects use GitHub Issues for bug reports and feature requests — use the issue tracker in each repository.
 Consult our [contributing guide](https://github.com/weld/.github/blob/main/CONTRIBUTING.md) to learn more.
 
 Finally, to discuss, ask questions or propose changes, you can use either [weld-dev mailing list](https://lists.jboss.org/archives/list/weld-dev@lists.jboss.org/) or GitHub discussions which are enabled in all of the repositories.
