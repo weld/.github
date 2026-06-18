@@ -47,17 +47,17 @@ Alternatively, you can reach out to us via the [weld-dev mailing list](https://l
 * If possible and applicable, try to write an automated test
   * In case you are uncertain how to do that, create a pull request without it and ask for help
 * While working on a pull request, you can use any amount of commits but once done, it is preferable to squash commits into a single one
-* Commit message(s) should be meaningful and if the project uses JIRA, it should start with the JIRA issue number
-  * For instance `WELD-1234 Fix the answer to universe, life and everything`
-  * For projects using GitHub issues, make sure to link the pull request to the GitHub issue
+* Commit message(s) should be meaningful and reference the GitHub issue number
+  * For instance `#123 Fix the answer to universe, life and everything`
+  * Make sure to link the pull request to the GitHub issue
 
 ### Issues
 
-Weld [Core](https://github.com/weld/core), [API](https://github.com/weld/core) and [Parent](https://github.com/weld/core) use JIRA to manage issue. All issues can be found [here](https://issues.redhat.com/projects/WELD/issues/).
+All Weld projects use GitHub Issues for tracking bugs and feature requests. You can find issue trackers in each repository:
 
-To create a new issue or comment on an existing issue, you'll need to first [create a JIRA account](https://issues.redhat.com/).
-
-All other Weld projects, such as [Weld-testing](https://github.com/weld/weld-testing), use GitHub issues.
+* [Weld Core](https://github.com/weld/core/issues)
+* [Weld API](https://github.com/weld/api/issues)
+* [Weld Testing](https://github.com/weld/weld-testing/issues)
 
 ### Developer Certificate of Origin
 
